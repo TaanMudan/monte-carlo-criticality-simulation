@@ -6,7 +6,7 @@ Monte Carlo simulation of neutron transport and uranium-235 criticality in 1D an
 
 This project investigates the criticality conditions required for a self-sustaining uranium-235 chain reaction using Monte Carlo simulation techniques. Starting with a simple one-dimensional model before extending to a three-dimensional simulation, the project explores how neutron transport can be modelled numerically to estimate the critical dimensions and mass of a reactor.
 
-The project was completed as part of the University of Southampton MPhys Physics programme.
+The project was developed as part of a computational physics module.
 
 
 ## Methodology
